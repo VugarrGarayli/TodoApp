@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+div {
+  width: 50%;
+  margin: 25px;
+  border: 5px solid rgb(106, 167, 9);
+  text-align: center;
+  margin-left: 25%;
+  border-radius: 20px;
+}
